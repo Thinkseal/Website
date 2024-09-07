@@ -12,7 +12,7 @@
 
             <ProjectTitle> CRSS </ProjectTitle>
 
-            <img class="h-12 bg-white rounded-xl p-1" src="https://crss.blurryface.xyz/favicon.ico">
+            <img class="h-12 bg-white rounded-xl p-1" src="https://crss.blurry.gay/favicon.ico">
 
         </ProjectTitleBar>
 
@@ -26,7 +26,7 @@
 
     <div class="flex flex-row gap-4 flex-wrap">
 
-        <NuxtLink to="https://crss.blurryface.xyz"> <user> Website <LucideAppWindow /> </user> </NuxtLink>
+        <NuxtLink to="https://crss.blurry.gay"> <user> Website <LucideAppWindow /> </user> </NuxtLink>
 
     </div>
 
@@ -50,7 +50,7 @@
 
     <div class="flex flex-row gap-4 flex-wrap">
 
-        <NuxtLink to="https://crss.blurryface.xyz"> <user> Website <LucideAppWindow /> </user> </NuxtLink>
+        <NuxtLink to="https://crss.blurry.gay"> <user> Website <LucideAppWindow /> </user> </NuxtLink>
 
         <NuxtLink to="https://modrinth.com/organization/loop"> <user> Modrinth <LucideBox /> </user> </NuxtLink>
 
